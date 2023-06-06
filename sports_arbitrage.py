@@ -4,7 +4,7 @@
 #  2nd source url: 
 #				bovada.lv
 ############
-# by Christian Ruhe
+# by Croo
 ############
 
 
